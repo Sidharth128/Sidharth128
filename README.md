@@ -1,10 +1,5 @@
-# ✨ Hey, I’m Sidharth!  
+# Hey, I’m Sidharth!  
 
-💡 Turning **ideas into interactive experiences** through clean code & sleek design.  
-📍 Final-year **Computer Science student** from Kerala | 💼 Incoming ASE @ Accenture  
-🚀 Obsessed with **building web apps** that blend creativity with performance  
-
----
 
 ### 🛠️ Tech Arsenal
 <p>
@@ -15,16 +10,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=sidharthbyju&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthbyju&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ### 🌐 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sidharth-byju)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 
