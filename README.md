@@ -1,7 +1,7 @@
 # Hey, I’m Sidharth!  
 
 
-### 🛠️ Tech Arsenal
+### 💻 Tech Stack
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
@@ -13,7 +13,7 @@
 </p>
 
 
-### 🌐 Let’s Connect
+### 🌍 Let’s Connect
 <a href="https://linkedin.com/in/sidharth-byju">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
 
